@@ -2,7 +2,7 @@ const esPar = require("./numeros.js");
 const Logger = require('logplease');
 const logger = Logger.create('utils');
 
-console.log(esPar.esPar(4));
+// console.log(esPar.esPar(4));
 
 
 
